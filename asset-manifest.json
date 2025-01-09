@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.289686ba.css",
+    "main.js": "/static/js/main.03bfed97.js",
+    "static/media/bg-video.gif": "/static/media/bg-video.694144616b6a8a0060ca.gif",
+    "static/media/turn.webp": "/static/media/turn.dc427e53cc4f29a438f1.webp",
+    "static/media/bg.webp": "/static/media/bg.a5d6b68401c5ead46ee9.webp",
+    "static/media/blackCircle.webp": "/static/media/blackCircle.c4bd9ef0bb0c3b69be81.webp",
+    "static/media/spin.webp": "/static/media/spin.d15078041801732f46fb.webp",
+    "static/media/whatsapp.webp": "/static/media/whatsapp.85ee71584c6045caa214.webp",
+    "static/media/button.webp": "/static/media/button.9a9f9f276decdbb11340.webp",
+    "static/media/facebook.webp": "/static/media/facebook.fe5d7dff5df5d468745d.webp",
+    "static/media/twitter.webp": "/static/media/twitter.ee57d675ea3deed1d7c7.webp",
+    "static/media/invite.webp": "/static/media/invite.8bc9dfe16cd9f129113a.webp",
+    "static/media/trophy.webp": "/static/media/trophy.539675dfc4f10b089990.webp",
+    "static/media/coin.webp": "/static/media/coin.dd722d08b647800351cd.webp",
+    "index.html": "/index.html",
+    "static/media/mark.webp": "/static/media/mark.160f009b4c0336915404.webp",
+    "main.289686ba.css.map": "/static/css/main.289686ba.css.map",
+    "main.03bfed97.js.map": "/static/js/main.03bfed97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.289686ba.css",
+    "static/js/main.03bfed97.js"
+  ]
+}
